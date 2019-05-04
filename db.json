@@ -9,11 +9,9 @@
         "Grow wealth for cost of beer and pizza over weekends"
       ],
       "funds": [
-        "HDFC",
-        "ICICI",
-        "LT",
-        "SBI",
-        "MIRAE"
+        "https://assets1.cleartax-cdn.com/clearsave/images/Reliance.png",
+        "https://assets1.cleartax-cdn.com/clearsave/images/new_dsp_logo.png",
+        "https://assets1.cleartax-cdn.com/clearsave/images/Axis.png"
       ],
       "avg_returns": {
         "5_years": "20.8",
@@ -30,10 +28,8 @@
         "Invest consistently to grow wealth"
       ],
       "funds": [
-        "HDFC",
-        "BIRLA",
-        "KOTAK",
-        "SBI"
+        "https://assets1.cleartax-cdn.com/clearsave/images/Reliance.png",
+        "https://assets1.cleartax-cdn.com/clearsave/images/Axis.png"
       ],
       "avg_returns": {
         "5_years": "21.8",
@@ -50,9 +46,8 @@
         "High returns at slightly higher risk."
       ],
       "funds": [
-        "LIC",
-        "ICICI",
-        "KOTAK"
+        "https://assets1.cleartax-cdn.com/clearsave/images/new_dsp_logo.png",
+        "https://assets1.cleartax-cdn.com/clearsave/images/Axis.png"
       ],
       "avg_returns": {
         "5_years": "18.2",
